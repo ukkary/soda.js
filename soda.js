@@ -1,4 +1,3 @@
-//****** init ******
 var canvas = document.getElementById('pop-art');
 var ctx = canvas.getContext('2d');
 var i, j, counter, current;
